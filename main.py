@@ -1,4 +1,4 @@
-#!/usr/bin/python2.5
+#!/usr/bin/python2
 # -*- coding: utf-8 -*-
 # SPPoker is a registered trademark of Sppoker, LLC.
 # All game play operations are the sole property of Sppoker, LLC
